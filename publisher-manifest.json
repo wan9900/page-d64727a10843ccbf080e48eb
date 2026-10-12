@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "35366fc527bca6697404bb7f",
+  "owner": "wan9900",
+  "repo": "page-d64727a10843ccbf080e48eb",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d64727a10843ccbf080e48eb",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c3530053297534b573799a41b027c437692ee55737d6f892b673d16b1fcced4b",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买提供专业VPN加速服务，从基础版15元/月起，支持多设备在线，流媒体解锁。立即访问官网下载客户端或订阅。",
+          "AI_DESCRIPTION": "TG号购买提供专业VPN加速服务，从基础版15元/月起，支持多设备在线，流媒体解锁。立即访问官网下载客户端或订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --coral: #e85a4e;\n            --warm-white: #f8f4e8;\n        }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.7;\n            color: #333;\n            background-color: var(--warm-white);\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: var(--coral);\n            text-align: center;\n            font-size: 2.8em;\n            margin-bottom: 10px;\n        }\n        h2 {\n            color: var(--coral);\n            font-size: 2em;\n            margin: 40px 0 20px;\n            border-bottom: 3px solid var(--coral);\n            padding-bottom: 10px;\n        }\n        p {\n            font-size: 1.05em;\n            margin-bottom: 20px;\n        }\n        ul, ol {\n            padding-left: 20px;\n        }\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 30px 0;\n            box-shadow: 0 4px 8px rgba(0,0,0,0.1);\n        }\n        th, td {\n            padding: 15px;\n            text-align: left;\n            border: 1px solid #ddd;\n        }\n        th {\n            background-color: var(--coral);\n            color: white;\n            font-size: 1.1em;\n        }\n        tr:nth-child(even) {\n            background-color: #fff0e6;\n        }\n        .featured {\n            background-color: #fff0e6 !important;\n            font-weight: bold;\n        }\n        details {\n            margin: 20px 0;\n            background-color: white;\n            padding: 15px;\n            border-radius: 8px;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: bold;\n            color: var(--coral);\n            cursor: pointer;\n            font-size: 1.1em;\n        }\n        .content {\n            display: flex;\n            gap: 40px;\n            flex-wrap: wrap;\n        }\n        .intro-column {\n            flex: 1;\n            min-width: 300px;\n        }\n        @media (max-width: 768px) {\n            .content {\n                flex-direction: column;\n            }\n            h2 {\n                font-size: 1.8em;\n            }\n            h1 {\n                font-size: 2.2em;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>TG号购买</h1>\n        <p>专业稳定VPN加速器，解锁流媒体与游戏加速</p>\n        <div class=\"content\">\n            <div class=\"intro-column\">\n                <h2>品牌简介</h2>\n                <p>TG号购买致力于为您提供优质VPN加速服务，涵盖从基础到团队版的多种套餐。无论您是个人用户还是企业团队，我们都能满足您的网络需求。</p>\n                <h2>使用场景</h2>\n                <ul>\n                    <li>解锁全球流媒体平台，如Netflix、YouTube、Disney+</li>\n                    <li>优化网络延迟，提升游戏体验</li>\n                    <li>安全访问被屏蔽的国际网站</li>\n                    <li>保护上网隐私，加密数据传输</li>\n                    <li>支持多种设备同时在线</li>\n                </ul>\n                <h2>操作说明</h2>\n                <ol>\n                    <li>访问官网选择适合的套餐</li>\n                    <li>完成在线支付</li>\n                    <li>下载客户端或使用网页连接</li>\n                    <li>连接到高速节点即可开始使用</li>\n                </ol>\n            </div>\n            <div>\n                <h2>套餐对比</h2>\n                \n                    \n                        \n                            套餐名称\n                            月付价格\n                            年付价格\n                            流量\n                            设备支持\n                            主要特点\n                        \n                    \n                    \n                        \n                            基础版\n                            ¥15/月\n                            ¥150/年\n                            每月100GB\n                            3台\n                            普通线路节点池，解锁基础流媒体\n                        \n                        \n                            旗舰版\n                            ¥35/月\n                            ¥350/年\n                            每月300GB\n                            5台\n                            全节点原生流媒体解锁，IPLC专线游戏加速，7x24优先支持\n                        \n                        \n                            团队版\n                            ¥85/月\n                            ¥850/年\n                            每月1000GB\n                            20台\n                            VIP高带宽节点，企业定制路由，专属客户经理\n                        \n                    \n                \n            </div>\n        </div>\n        <h2>常见问题</h2>\n        <details>\n            <summary>什么是TG号购买？</summary>\n            <p>TG号购买是专业的VPN加速器平台，提供稳定高速的网络服务，支持流媒体解锁和游戏优化。</p>\n        </details>\n        <details>\n            <summary>如何订阅和购买套餐？</summary>\n            <p>只需选择适合您的套餐，通过官网完成在线支付，即可获得订阅凭证并开始使用。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备和平台？</summary>\n            <p>基础版支持3台设备，旗舰版5台，团队版20台，同时支持Windows、Mac、Android、iOS等多种客户端。</p>\n        </details>\n        <details>\n            <summary>节点质量和速度如何？</summary>\n            <p>所有套餐均提供高速节点池，旗舰版和团队版有IPLC专线优化，游戏加速明显。</p>\n        </details>\n        <details>\n            <summary>如何获取官方下载地址？</summary>\n            <p>访问TG号购买官网，即可下载最新客户端版本或使用网页版进行连接。</p>\n        </details>\n        <details>\n            <summary>是否支持7x24客服支持？</summary>\n            <p>旗舰版及以上套餐均提供7x24优先工单支持，团队版有专属客户经理。</p>\n        </details>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "84d1ff19c5f57debf30ea1c456a7582f6bf6e7e6ed1cb1d254aec6ee708137d0",
+          "seo": {
+            "title": "TG号购买 - 稳定VPN加速器，月付15元起，官方下载",
+            "keywords": "TG号购买,VPN加速器,机场订阅,客户端下载,VPN梯子",
+            "description": "TG号购买提供专业VPN加速服务，从基础版15元/月起，支持多设备在线，流媒体解锁。立即访问官网下载客户端或订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bainubaba.cn",
+    "host": "p-8fa362893d.bainubaba.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f6751cc8176b1a734b85f2f8bf7473a21090a0f38eae6cddc770f9a6c5419434",
+    "sitemap.xml": "3b4aeb7588ec09f7d1b714fd5a4559e3e485ad29efd2e0fd111b72583cbe657b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "87e8c2abc73d93f0113e45b069af627e9f567f11dc7434e69b705577066c8e5e",
+    "robots.txt": "7991d71ad2b9972b699c37b29f6349a0f09c33fb2beb404effc6f1906f203b81",
+    "97577f3d77a90a4431dc37cce0b9393a.txt": "8be8fdb2e75796a28c40307af689e38e9614b34d936b94ce0847a54ed790b45e"
+  },
+  "revision": "83e6656f1a9e2162f8117d14d76c429608476adc94edb33bb5245fc83f3e4156"
+}
